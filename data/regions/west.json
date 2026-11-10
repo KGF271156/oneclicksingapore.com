@@ -1,0 +1,139 @@
+{
+  "slug": "west",
+  "name": "West Region",
+  "adjective": "West Region",
+  "people": "West Region Singaporeans",
+  "eyebrow": "West Region · Jurong, Clementi and Tuas",
+  "title": "West Region:",
+  "title_em": "industry, universities and the port of the future.",
+  "tagline": "Jurong, Clementi and Tuas: industry, NTU, the lakeside gardens and the new mega-port.",
+  "stats": [
+    [
+      "12",
+      "planning areas"
+    ]
+  ],
+  "summary": [
+    "The West Region is Singapore's industrial engine. Jurong Island is the petrochemical hub, Tuas is building a very large, highly automated port, and Jurong East is a regional business centre.",
+    "It is also a place of learning and green space: NTU's campus lies in the west, and Jurong Lake Gardens and the Chinese and Japanese Gardens are popular for a weekend walk."
+  ],
+  "map": {
+    "viewBox": "-14 42 341 449",
+    "lon0": 0,
+    "x0": -155357.64,
+    "pxPerLon": 1499.605,
+    "lat0": 0,
+    "y0": 2216.16,
+    "pxPerLat": 1500,
+    "towns": [
+      {
+        "name": "Jurong East",
+        "lat": 1.3329,
+        "lon": 103.7436,
+        "note": "A regional business centre.",
+        "label": "left"
+      },
+      {
+        "name": "Clementi",
+        "lat": 1.3162,
+        "lon": 103.7649,
+        "note": "A HDB town near the universities.",
+        "label": "left"
+      },
+      {
+        "name": "Bukit Batok",
+        "lat": 1.359,
+        "lon": 103.7637,
+        "note": "A town with nature parks."
+      },
+      {
+        "name": "Choa Chu Kang",
+        "lat": 1.384,
+        "lon": 103.747,
+        "note": "A large residential town."
+      },
+      {
+        "name": "Boon Lay",
+        "lat": 1.3387,
+        "lon": 103.7058,
+        "note": "A bus interchange and hawker hub.",
+        "label": "left"
+      },
+      {
+        "name": "Tuas",
+        "lat": 1.294,
+        "lon": 103.635,
+        "note": "The port and industrial zone.",
+        "label": "left"
+      },
+      {
+        "name": "Bukit Panjang",
+        "lat": 1.3774,
+        "lon": 103.7719,
+        "note": "A hilltop town."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Jurong Island and Tuas",
+      "text": "Petrochemicals, shipyards and the biggest port project in Singapore."
+    },
+    {
+      "title": "NTU and Jurong East",
+      "text": "A leading technology university and a growing business district."
+    },
+    {
+      "title": "Jurong Lake Gardens",
+      "text": "The first national gardens in the heartland."
+    }
+  ],
+  "places": [
+    {
+      "name": "Jurong Lake Gardens",
+      "where": "Jurong East",
+      "text": "A large lakeside park with a nature playground."
+    },
+    {
+      "name": "Chinese Garden",
+      "where": "Jurong East",
+      "text": "A garden with a pagoda, built in the style of Chinese imperial gardens."
+    },
+    {
+      "name": "Nanyang Technological University",
+      "where": "Jurong West",
+      "text": "A modern campus known for engineering and design."
+    }
+  ],
+  "food": [
+    "Fish soup",
+    "Cai png (mixed rice)",
+    "Mee pok",
+    "Zi char dishes",
+    "Chicken rice"
+  ],
+  "festivals": [
+    {
+      "name": "Mid-Autumn Festival",
+      "where": "Chinese Garden",
+      "month": 9,
+      "when": "September or October (lunar calendar)",
+      "text": "Lantern displays and mooncakes at the Chinese Garden.",
+      "diaspora": true
+    }
+  ],
+  "sport": {
+    "intro": "Lion City Sailors play at Jurong East Stadium, and the lakeside parks are full of runners and cyclists.",
+    "clubs": [
+      {
+        "name": "Lion City Sailors",
+        "sport": "Football",
+        "ground": "Jurong East Stadium"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Singaporeans from the west often grew up near industry and technology, and many have taken that engineering mindset overseas."
+  },
+  "ancestry": "Tracing your family in Singapore? The National Archives of Singapore and the National Library Board hold oral histories, newspapers, maps and records, and many are searchable online."
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "north",
+  "name": "North Region",
+  "adjective": "North Region",
+  "people": "North Region Singaporeans",
+  "eyebrow": "North Region · Woodlands, Yishun and Mandai",
+  "title": "North Region:",
+  "title_em": "the causeway, the wildlife and the wetlands.",
+  "tagline": "Woodlands and the Causeway to Johor, Mandai's wildlife parks, Sungei Buloh and Kranji.",
+  "stats": [
+    [
+      "8",
+      "planning areas"
+    ]
+  ],
+  "summary": [
+    "The North Region faces Malaysia across the Straits of Johor. Woodlands has the Causeway and the Checkpoint, Yishun and Sembawang are big residential towns, and Mandai holds the Singapore Zoo, Night Safari and Bird Paradise.",
+    "Further west are the Kranji countryside, with its farms and the Kranji War Memorial, and the Sungei Buloh Wetland Reserve, a rest stop for migratory birds."
+  ],
+  "map": {
+    "viewBox": "125 -6 301 235",
+    "lon0": 0,
+    "x0": -155357.64,
+    "pxPerLon": 1499.605,
+    "lat0": 0,
+    "y0": 2216.16,
+    "pxPerLat": 1500,
+    "towns": [
+      {
+        "name": "Woodlands",
+        "lat": 1.437,
+        "lon": 103.7865,
+        "note": "Causeway and Checkpoint to Johor Bahru.",
+        "label": "left"
+      },
+      {
+        "name": "Yishun",
+        "lat": 1.4304,
+        "lon": 103.8354,
+        "note": "A large HDB town."
+      },
+      {
+        "name": "Sembawang",
+        "lat": 1.4491,
+        "lon": 103.8185,
+        "note": "A naval base and a historic shipyard area."
+      },
+      {
+        "name": "Mandai",
+        "lat": 1.4043,
+        "lon": 103.793,
+        "note": "The wildlife parks."
+      },
+      {
+        "name": "Sungei Buloh",
+        "lat": 1.4468,
+        "lon": 103.73,
+        "note": "A wetland reserve on the migratory flyway.",
+        "label": "left"
+      },
+      {
+        "name": "Kranji",
+        "lat": 1.426,
+        "lon": 103.7587,
+        "note": "War memorial and farms.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "The Causeway",
+      "text": "The road and rail link with Johor Bahru, opened in 1923."
+    },
+    {
+      "title": "Mandai Wildlife Reserve",
+      "text": "The zoo, the Night Safari, River Wonders and Bird Paradise."
+    },
+    {
+      "title": "Kranji and Sungei Buloh",
+      "text": "War graves, farms and a wetland reserve."
+    }
+  ],
+  "places": [
+    {
+      "name": "Singapore Zoo and Night Safari",
+      "where": "Mandai",
+      "text": "Open-concept zoo and the world's first nocturnal wildlife park."
+    },
+    {
+      "name": "Sungei Buloh Wetland Reserve",
+      "where": "Lim Chu Kang",
+      "text": "Mangroves and mudflats on a bird migration route."
+    },
+    {
+      "name": "Kranji War Memorial",
+      "where": "Kranji",
+      "text": "A memorial and cemetery for the Commonwealth forces."
+    }
+  ],
+  "food": [
+    "Prawn mee",
+    "Wanton mee",
+    "Satay",
+    "Farm-fresh produce at Kranji",
+    "Nasi lemak"
+  ],
+  "festivals": [
+    {
+      "name": "ANZAC Day dawn service",
+      "where": "Kranji War Memorial",
+      "month": 4,
+      "when": "25 April",
+      "text": "Australians and New Zealanders gather to remember their fallen.",
+      "diaspora": true
+    },
+    {
+      "name": "Remembrance Sunday",
+      "where": "Kranji War Memorial",
+      "month": 11,
+      "when": "Second Sunday of November",
+      "text": "Wreath-laying for the war dead.",
+      "diaspora": true
+    }
+  ],
+  "sport": {
+    "intro": "Woodlands Wellington are the football club of the north, playing at Woodlands Stadium, and the Kranji area has the old racecourse.",
+    "clubs": [
+      {
+        "name": "Woodlands Wellington",
+        "sport": "Football",
+        "ground": "Woodlands Stadium"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Singaporeans from Woodlands and Yishun often have family links across the Causeway to Malaysia, and these ties extend overseas."
+  },
+  "ancestry": "Tracing your family in Singapore? The National Archives of Singapore and the National Library Board hold oral histories, newspapers, maps and records, and many are searchable online."
+}

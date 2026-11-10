@@ -1,0 +1,132 @@
+{
+  "slug": "east",
+  "name": "East Region",
+  "adjective": "East Region",
+  "people": "East Region Singaporeans",
+  "eyebrow": "East Region · Changi, Tampines and the beaches",
+  "title": "East Region:",
+  "title_em": "Changi, Tampines and the sea.",
+  "tagline": "Changi Airport, East Coast beaches, Pasir Ris and the heartland of Tampines and Bedok.",
+  "stats": [
+    [
+      "6",
+      "planning areas"
+    ]
+  ],
+  "summary": [
+    "The East Region is where most visitors first land: Changi Airport and Jewel Changi, with its Rain Vortex. It also has long beaches, East Coast Park and Pasir Ris, and the big HDB estates of Tampines and Bedok.",
+    "Changi has a long history, from the wartime Changi Chapel and Museum to Changi Village, whose hawker centre is a favourite for nasi lemak."
+  ],
+  "map": {
+    "viewBox": "428 101 252 176",
+    "lon0": 0,
+    "x0": -155357.64,
+    "pxPerLon": 1499.605,
+    "lat0": 0,
+    "y0": 2216.16,
+    "pxPerLat": 1500,
+    "towns": [
+      {
+        "name": "Changi Airport",
+        "lat": 1.3644,
+        "lon": 103.9915,
+        "note": "Home of Jewel Changi.",
+        "label": "left"
+      },
+      {
+        "name": "Tampines",
+        "lat": 1.3496,
+        "lon": 103.9568,
+        "note": "A big HDB town with its own regional centre.",
+        "label": "left"
+      },
+      {
+        "name": "Pasir Ris",
+        "lat": 1.3721,
+        "lon": 103.9474,
+        "note": "A park and beach town."
+      },
+      {
+        "name": "Bedok",
+        "lat": 1.3236,
+        "lon": 103.93,
+        "note": "An old HDB town near East Coast.",
+        "label": "left"
+      },
+      {
+        "name": "Changi Village",
+        "lat": 1.3894,
+        "lon": 103.9873,
+        "note": "A seaside village and hawker centre."
+      },
+      {
+        "name": "Paya Lebar",
+        "lat": 1.318,
+        "lon": 103.893,
+        "note": "An air base and a growing commercial hub.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Changi Airport and Jewel",
+      "text": "A world-famous airport with the Rain Vortex, the tallest indoor waterfall."
+    },
+    {
+      "title": "East Coast Park",
+      "text": "A long seafront park for cycling, barbecues and seafood."
+    },
+    {
+      "title": "Tampines and Bedok",
+      "text": "Large heartland towns with hawker centres and the shops that feed them."
+    }
+  ],
+  "places": [
+    {
+      "name": "Jewel Changi Airport",
+      "where": "Changi",
+      "text": "The Rain Vortex waterfall and the Canopy Park."
+    },
+    {
+      "name": "Changi Chapel and Museum",
+      "where": "Changi",
+      "text": "A memorial to the people held at Changi in the Second World War."
+    },
+    {
+      "name": "East Coast Park",
+      "where": "Bedok",
+      "text": "A long park on the seafront, with cycling and seafood stalls."
+    }
+  ],
+  "food": [
+    "Nasi lemak at Changi Village",
+    "Chilli crab at East Coast",
+    "Bak kut teh",
+    "Satay",
+    "Ice kacang"
+  ],
+  "festivals": [
+    {
+      "name": "Singapore Airshow",
+      "where": "Changi Exhibition Centre",
+      "month": 2,
+      "when": "February, in even-numbered years",
+      "text": "One of Asia's largest aerospace and defence shows."
+    }
+  ],
+  "sport": {
+    "intro": "Tampines Rovers are the leading football name in the east, and East Coast Park draws cyclists, runners and sailors every weekend.",
+    "clubs": [
+      {
+        "name": "Tampines Rovers",
+        "sport": "Football",
+        "ground": "Our Tampines Hub"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Singaporeans from the east are often known for their love of the beach and airport, and many are involved in aviation and logistics abroad."
+  },
+  "ancestry": "Tracing your family in Singapore? The National Archives of Singapore and the National Library Board hold oral histories, newspapers, maps and records, and many are searchable online."
+}

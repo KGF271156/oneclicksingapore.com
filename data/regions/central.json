@@ -1,0 +1,194 @@
+{
+  "slug": "central",
+  "name": "Central Region",
+  "adjective": "Central Region",
+  "people": "Central Region Singaporeans",
+  "eyebrow": "Central Region · Marina Bay, Orchard and the old quarters",
+  "title": "Central Region:",
+  "title_em": "the city at the heart of Singapore.",
+  "tagline": "Marina Bay, Orchard Road, Chinatown, Little India and the island resort of Sentosa.",
+  "stats": [
+    [
+      "22",
+      "planning areas"
+    ]
+  ],
+  "summary": [
+    "The Central Region is Singapore's core: its financial district, its main shopping belt and its oldest neighbourhoods, from Chinatown and Little India to Kampong Glam. It is also home to some of the island's greenest places, including the Botanic Gardens and Bukit Timah Nature Reserve.",
+    "Marina Bay, with Marina Bay Sands, Gardens by the Bay and the Singapore Flyer, is the skyline most people picture. Behind it are heritage shophouses, hawker centres and the national stadium at the Sports Hub."
+  ],
+  "map": {
+    "viewBox": "212 149 284 262",
+    "lon0": 0,
+    "x0": -155357.64,
+    "pxPerLon": 1499.605,
+    "lat0": 0,
+    "y0": 2216.16,
+    "pxPerLat": 1500,
+    "towns": [
+      {
+        "name": "Marina Bay",
+        "lat": 1.2838,
+        "lon": 103.8591,
+        "note": "Marina Bay Sands, Gardens by the Bay and the financial district."
+      },
+      {
+        "name": "Orchard Road",
+        "lat": 1.3048,
+        "lon": 103.8318,
+        "note": "The shopping belt, with Christmas lights each November.",
+        "label": "left"
+      },
+      {
+        "name": "Chinatown",
+        "lat": 1.2833,
+        "lon": 103.8443,
+        "note": "Temples, shophouses and heritage trails.",
+        "label": "below"
+      },
+      {
+        "name": "Little India",
+        "lat": 1.3066,
+        "lon": 103.8518,
+        "note": "Serangoon Road, temples and Deepavali.",
+        "label": "left"
+      },
+      {
+        "name": "Kampong Glam",
+        "lat": 1.302,
+        "lon": 103.859,
+        "note": "Sultan Mosque, Arab Street and Haji Lane.",
+        "label": "below"
+      },
+      {
+        "name": "Botanic Gardens",
+        "lat": 1.3138,
+        "lon": 103.8159,
+        "note": "A UNESCO World Heritage Site.",
+        "label": "left"
+      },
+      {
+        "name": "Toa Payoh",
+        "lat": 1.3343,
+        "lon": 103.8563,
+        "note": "One of the oldest HDB towns."
+      },
+      {
+        "name": "Bukit Timah",
+        "lat": 1.3547,
+        "lon": 103.7764,
+        "note": "The nature reserve and Singapore's highest natural point.",
+        "label": "left"
+      },
+      {
+        "name": "Sentosa",
+        "lat": 1.2494,
+        "lon": 103.8303,
+        "note": "The island resort with beaches and Universal Studios.",
+        "label": "left"
+      },
+      {
+        "name": "Katong",
+        "lat": 1.3057,
+        "lon": 103.905,
+        "note": "Peranakan shophouses and laksa."
+      },
+      {
+        "name": "Kallang",
+        "lat": 1.304,
+        "lon": 103.875,
+        "note": "The National Stadium and the Sports Hub."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Marina Bay",
+      "text": "Marina Bay Sands, Gardens by the Bay's Supertrees and the Merlion: the postcard skyline."
+    },
+    {
+      "title": "Chinatown, Little India and Kampong Glam",
+      "text": "Three historic quarters side by side, each with its own temples, mosques and food."
+    },
+    {
+      "title": "The Botanic Gardens",
+      "text": "Singapore's UNESCO World Heritage garden, listed in 2015."
+    }
+  ],
+  "places": [
+    {
+      "name": "Gardens by the Bay",
+      "where": "Marina Bay",
+      "text": "The Supertree Grove and the Flower Dome and Cloud Forest conservatories."
+    },
+    {
+      "name": "Singapore Botanic Gardens",
+      "where": "Tanglin",
+      "text": "A UNESCO World Heritage Site, with the National Orchid Garden."
+    },
+    {
+      "name": "Chinatown Heritage Centre and Buddha Tooth Relic Temple",
+      "where": "Chinatown",
+      "text": "Old Singapore's first Chinese immigrants, their shophouses and temples."
+    }
+  ],
+  "food": [
+    "Hainanese chicken rice",
+    "Katong laksa",
+    "Roti prata",
+    "Kaya toast and kopi",
+    "Singapore Sling at the Long Bar"
+  ],
+  "festivals": [
+    {
+      "name": "Chinese New Year",
+      "where": "Chinatown",
+      "month": 2,
+      "when": "January or February (lunar calendar)",
+      "text": "Street light-up, a festive market in Chinatown and the River Hongbao celebrations.",
+      "diaspora": true
+    },
+    {
+      "name": "National Day",
+      "where": "Marina Bay",
+      "month": 8,
+      "when": "9 August",
+      "text": "Singapore's independence day, with the parade, fireworks and flypasts over Marina Bay.",
+      "diaspora": true
+    },
+    {
+      "name": "Singapore Grand Prix",
+      "where": "Marina Bay",
+      "month": 9,
+      "when": "September or October",
+      "text": "Formula 1's night race on the Marina Bay Street Circuit since 2008."
+    },
+    {
+      "name": "Deepavali light-up",
+      "where": "Little India",
+      "month": 11,
+      "when": "Late October or November",
+      "text": "Serangoon Road is lit up and the Deepavali bazaar opens in Little India.",
+      "diaspora": true
+    }
+  ],
+  "sport": {
+    "intro": "The Singapore Sports Hub at Kallang holds the National Stadium, where the Lions play, and big concerts; Jalan Besar Stadium is a local football home.",
+    "clubs": [
+      {
+        "name": "Singapore Lions",
+        "sport": "Football",
+        "ground": "National Stadium"
+      },
+      {
+        "name": "Tanjong Pagar United",
+        "sport": "Football",
+        "ground": "Jalan Besar Stadium"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Many Singaporeans abroad are from the central neighbourhoods, and they carry Chinatown, Little India and Kampong Glam culture with them."
+  },
+  "ancestry": "Tracing your family in Singapore? The National Archives of Singapore and the National Library Board hold oral histories, newspapers, maps and records, and many are searchable online."
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "north-east",
+  "name": "North-East Region",
+  "adjective": "North-East Region",
+  "people": "North-East Region Singaporeans",
+  "eyebrow": "North-East Region · Ang Mo Kio, Punggol and Sengkang",
+  "title": "North-East Region:",
+  "title_em": "new towns, waterways and Pulau Ubin.",
+  "tagline": "Ang Mo Kio, Hougang, Punggol and Sengkang, with Seletar's aerospace park and the kampong island of Pulau Ubin.",
+  "stats": [
+    [
+      "7",
+      "planning areas"
+    ]
+  ],
+  "summary": [
+    "The North-East Region is a place of new towns and waterways. Ang Mo Kio is one of the oldest, while Punggol and Sengkang are newer, with waterfront housing and the Punggol Digital District taking shape.",
+    "Seletar is an aerospace hub, and offshore, Pulau Ubin keeps something of the old kampong, with its granite quarries and tracks that are fun to cycle."
+  ],
+  "map": {
+    "viewBox": "302 31 456 209",
+    "lon0": 0,
+    "x0": -155357.64,
+    "pxPerLon": 1499.605,
+    "lat0": 0,
+    "y0": 2216.16,
+    "pxPerLat": 1500,
+    "towns": [
+      {
+        "name": "Ang Mo Kio",
+        "lat": 1.3691,
+        "lon": 103.8454,
+        "note": "An older HDB town with a big hawker centre.",
+        "label": "left"
+      },
+      {
+        "name": "Hougang",
+        "lat": 1.3612,
+        "lon": 103.8863,
+        "note": "A heartland town."
+      },
+      {
+        "name": "Sengkang",
+        "lat": 1.3868,
+        "lon": 103.8914,
+        "note": "A new town with a canal and LRT."
+      },
+      {
+        "name": "Punggol",
+        "lat": 1.4043,
+        "lon": 103.9021,
+        "note": "Waterfront housing and the Digital District."
+      },
+      {
+        "name": "Serangoon",
+        "lat": 1.3554,
+        "lon": 103.8679,
+        "note": "A big transport hub.",
+        "label": "left"
+      },
+      {
+        "name": "Seletar",
+        "lat": 1.404,
+        "lon": 103.869,
+        "note": "Aerospace park.",
+        "label": "left"
+      },
+      {
+        "name": "Pulau Ubin",
+        "lat": 1.4044,
+        "lon": 103.9615,
+        "note": "The kampong island."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Pulau Ubin",
+      "text": "A small island where you can still see Singapore's kampong past."
+    },
+    {
+      "title": "Punggol Waterway",
+      "text": "A canal-side town with a Digital District and a university campus."
+    },
+    {
+      "title": "Seletar Aerospace Park",
+      "text": "An aircraft maintenance and aerospace hub."
+    }
+  ],
+  "places": [
+    {
+      "name": "Pulau Ubin",
+      "where": "Ubin",
+      "text": "A granite island with bike trails and mangroves."
+    },
+    {
+      "name": "Punggol Waterway Park",
+      "where": "Punggol",
+      "text": "A waterfront park with cycling and kayaking."
+    },
+    {
+      "name": "Bishan-Ang Mo Kio Park",
+      "where": "Ang Mo Kio",
+      "text": "A riverside park where a concrete canal was turned back into a stream."
+    }
+  ],
+  "food": [
+    "Hokkien mee",
+    "Char kway teow",
+    "Fishball noodles",
+    "Chendol",
+    "Kopi and kaya toast"
+  ],
+  "festivals": [
+    {
+      "name": "Hungry Ghost Festival",
+      "where": "Heartland estates",
+      "month": 8,
+      "when": "August or September (seventh lunar month)",
+      "text": "Neighbourhood getai concerts, offerings and street opera across the heartland.",
+      "diaspora": true
+    }
+  ],
+  "sport": {
+    "intro": "Hougang United play at Hougang Stadium, and Punggol's waterways are used for kayaking and dragon boating.",
+    "clubs": [
+      {
+        "name": "Hougang United",
+        "sport": "Football",
+        "ground": "Hougang Stadium"
+      }
+    ]
+  },
+  "community": {
+    "intro": "People from these new towns are often young families, and many Singaporeans abroad remember growing up in the older towns such as Ang Mo Kio."
+  },
+  "ancestry": "Tracing your family in Singapore? The National Archives of Singapore and the National Library Board hold oral histories, newspapers, maps and records, and many are searchable online."
+}
