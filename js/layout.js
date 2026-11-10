@@ -89,7 +89,7 @@
       '<div><h5>' + esc(T('Singapore Abroad')) + '</h5><ul><li><a href="' + ROOT + 'lobang.html">' + esc(T('Lobang')) + '</a></li><li><a href="' + ROOT + 'toolkit.html">' + esc(T('Toolkit')) + '</a></li><li><a href="' + ROOT + 'communities.html">' + esc(T('Communities')) + '</a></li></ul></div>' +
       '<div><h5>' + esc(T('Home, wherever you are')) + '</h5><ul><li><a href="' + ROOT + 'makan.html">' + esc(T('Makan')) + '</a></li><li><a href="' + ROOT + 'culture.html">' + esc(T('Culture')) + '</a></li><li><a href="' + ROOT + 'events.html">' + esc(T('Events')) + '</a></li><li><a href="' + ROOT + 'visit-singapore.html">' + esc(T('Visit Singapore')) + '</a></li></ul></div>' +
       '</div>' +
-      '<div class="footer-bottom"><span>&copy; ' + new Date().getFullYear() + ' OneClick Singapore · <a href="mailto:info@oneclicksingapore.com">info@oneclicksingapore.com</a></span>' +
+      '<div class="footer-bottom"><span>&copy; ' + new Date().getFullYear() + ' OneClick Singapore · <a href="mailto:info@oneclicksingapore.com">info@oneclicksingapore.com</a> · <a href="https://one-click-world.com" target="_blank" rel="noopener">Part of OneClick World</a></span>' +
       '<span><a href="#">' + esc(T('Privacy')) + '</a> · <a href="#">' + esc(T('Terms')) + '</a></span></div>' +
       '</div></footer>';
   }
